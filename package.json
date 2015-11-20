@@ -1,15 +1,21 @@
 {
   "name": "wfm",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "engines": {
     "node": ">=4.0.0"
   },
   "description": "Workflow manager",
   "main": "lib/notifications.js",
+  "bin": {
+    "wfm": "./bin/wfm"
+  },
   "directories": {
     "test": "test"
   },
   "dependencies": {
+    "minimist": "^1.2.0",
+    "semver": "^5.1.0",
+    "terminal-kit": "^0.15.11"
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
