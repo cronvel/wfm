@@ -1,16 +1,15 @@
 {
-  "name": "freedesktop-notifications",
-  "version": "1.1.1",
+  "name": "wfm",
+  "version": "0.0.0",
   "engines": {
     "node": ">=4.0.0"
   },
-  "description": "Freedesktop.org Notifications.",
+  "description": "Workflow manager",
   "main": "lib/notifications.js",
   "directories": {
     "test": "test"
   },
   "dependencies": {
-    "dbus-native": "^0.2.0"
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
@@ -22,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cronvel/freedesktop-notifications.git"
+    "url": "https://github.com/cronvel/wfm.git"
   },
   "keywords": [
     "notification"
@@ -30,6 +29,6 @@
   "author": "Cédric Ronvel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cronvel/freedesktop-notifications/issues"
+    "url": "https://github.com/cronvel/wfm/issues"
   }
 }
