@@ -58,6 +58,7 @@ describe( "Fake tests" , function() {
 	} ) ;
 	
 	it( "fake test #5" , function( done ) {
+		//throw true ;
 		setTimeout( done , 100 ) ;
 	} ) ;
 } ) ;
