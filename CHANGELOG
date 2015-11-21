@@ -1,4 +1,10 @@
 
+v0.1.8
+------
+
+git push --follow-tags tests
+
+
 v0.1.7
 ------
 
