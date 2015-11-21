@@ -39,14 +39,27 @@ var wfm = require( '../lib/wfm.js' ) ;
 			/* Tests */
 
 
-/*
-describe( "..." , function() {
+describe( "Fake tests" , function() {
 	
-	it( "..." , function() {
-		
+	it( "fake test #1" , function( done ) {
+		setTimeout( done , 100 ) ;
 	} ) ;
 	
+	it( "fake test #2" , function( done ) {
+		setTimeout( done , 300 ) ;
+	} ) ;
+	
+	it( "fake test #3" , function( done ) {
+		setTimeout( done , 500 ) ;
+	} ) ;
+	
+	it( "fake test #4" , function( done ) {
+		setTimeout( done , 300 ) ;
+	} ) ;
+	
+	it( "fake test #5" , function( done ) {
+		setTimeout( done , 100 ) ;
+	} ) ;
 } ) ;
-*/
 
 
