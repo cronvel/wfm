@@ -1,4 +1,10 @@
 
+v0.1.22
+-------
+
+now using: git status --porcelain
+
+
 v0.1.21
 -------
 
