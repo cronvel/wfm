@@ -1,4 +1,10 @@
 
+v0.4.0
+------
+
+New command: "wfm duplicate", it duplicates (mirror) a git repository, useful when you move your repository to another place
+
+
 v0.3.4
 ------
 
