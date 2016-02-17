@@ -1,11 +1,11 @@
 {
   "name": "wfm",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "engines": {
     "node": ">=4.0.0"
   },
   "description": "Workflow manager",
-  "main": "lib/notifications.js",
+  "main": "lib/wfm.js",
   "bin": {
     "wfm": "./bin/wfm"
   },
@@ -36,7 +36,8 @@
     "url": "https://github.com/cronvel/wfm.git"
   },
   "keywords": [
-    "notification"
+    "workflow",
+    "manager"
   ],
   "author": "Cédric Ronvel",
   "license": "MIT",
