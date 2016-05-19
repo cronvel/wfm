@@ -45,5 +45,13 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/cronvel/wfm/issues"
+  },
+  "copyright": {
+    "title": "WFM - Workflow Manager",
+    "years": [
+      2015,
+      2016
+    ],
+    "owner": "Cédric Ronvel"
   }
 }
