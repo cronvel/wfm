@@ -1,4 +1,10 @@
 
+v0.5.6
+------
+
+write package.json before the build: some build load package.json to put the correct version
+
+
 v0.5.5
 ------
 
