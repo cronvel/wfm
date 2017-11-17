@@ -1,4 +1,10 @@
 
+v0.5.13
+-------
+
+Using ESLint when a .eslintrc.js is found, ESLint styling
+
+
 v0.5.12
 -------
 
