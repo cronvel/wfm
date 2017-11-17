@@ -1,4 +1,10 @@
 
+v0.6.0
+------
+
+Now ESLint is called with the --fix option
+
+
 v0.5.17
 -------
 
