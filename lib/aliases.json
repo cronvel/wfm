@@ -1,3 +1,4 @@
 {
-	"pub":"publish"
+	"pub": "publish" ,
+	"env": "setup-environment"
 }
