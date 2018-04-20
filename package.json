@@ -1,6 +1,6 @@
 {
   "name": "wfm",
-  "version": "0.6.5",
+  "version": "0.6.6",
   "engines": {
     "node": ">=4.0.0"
   },
@@ -50,7 +50,7 @@
     "title": "WFM - Workflow Manager",
     "years": [
       2015,
-      2017
+      2018
     ],
     "owner": "Cédric Ronvel"
   }
