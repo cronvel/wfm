@@ -71,7 +71,11 @@ module.exports = {
 		} ] ,
 		'no-whitespace-before-property': 'error' ,
 		'space-before-blocks': 'error' ,
-		'space-before-function-paren': [ 'error' , 'never' ] ,
+		'space-before-function-paren': [ 'error' , {
+			'anonymous': 'never',
+			'named': 'never',
+			'asyncArrow': 'always'
+		} ] ,
 		'space-infix-ops': 'error' ,
 		'space-unary-ops': [ 'error' , {
 			'words': true ,
