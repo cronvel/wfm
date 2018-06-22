@@ -58,7 +58,10 @@ module.exports = {
 		// Indent & spaces (general)
 		'indent': [ 'error' , 'tab' , {
 			'SwitchCase': 1 ,
-			'MemberExpression': 0 ,
+			'MemberExpression': 1 ,
+		} ] ,
+		'newline-per-chained-call': [ 'error', {
+			'ignoreChainWithDepth': 2 
 		} ] ,
 		'no-multi-spaces': 'off' ,
 		'block-spacing': 'error' ,
