@@ -1,4 +1,11 @@
 
+v0.6.10
+-------
+
+Fix CHANGELOG split on '
+' (regex was not global)
+
+
 v0.6.9
 ------
 
