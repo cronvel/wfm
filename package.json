@@ -21,7 +21,7 @@
     "ini": "^1.3.5",
     "minimist": "github:cronvel/minimist",
     "semver": "^6.0.0",
-    "seventh": "^0.7.22",
+    "seventh": "^0.7.23",
     "string-kit": "^0.9.5",
     "terminal-kit": "^1.28.0",
     "tmp": "^0.1.0"
