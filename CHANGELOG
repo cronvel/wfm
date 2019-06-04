@@ -1,4 +1,10 @@
 
+v0.7.2
+------
+
+Fixing failing unit test not terminating the process
+
+
 v0.7.1
 ------
 
