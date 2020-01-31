@@ -1,8 +1,8 @@
 {
   "name": "wfm",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "engines": {
-    "node": ">=4.0.0"
+    "node": ">=12.0.0"
   },
   "description": "Workflow manager",
   "main": "lib/wfm.js",
@@ -15,14 +15,12 @@
   "dependencies": {
     "doormen": "^0.10.19",
     "freedesktop-notifications": "^1.4.0",
-    "fs-kit": "^0.3.2",
-    "glob": "^7.1.6",
+    "fs-kit": "^0.5.1",
     "ini": "^1.3.5",
-    "semver": "^7.1.1",
+    "semver": "^7.1.2",
     "seventh": "^0.7.30",
     "string-kit": "^0.11.6",
     "terminal-kit": "^1.32.3",
-    "tmp": "^0.1.0",
     "utterminal": "^0.5.42"
   },
   "devDependencies": {},
