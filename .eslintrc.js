@@ -62,9 +62,7 @@ module.exports = {
 			'MemberExpression': 1 ,
 			'flatTernaryExpressions': true
 		} ] ,
-		'newline-per-chained-call': [ 'error', {
-			'ignoreChainWithDepth': 2 
-		} ] ,
+		'newline-per-chained-call': 'off',
 		'no-multi-spaces': 'off' ,
 		'block-spacing': 'error' ,
 		'comma-spacing': [ 'error' , {
