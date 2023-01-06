@@ -1,6 +1,6 @@
 {
   "name": "wfm",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "engines": {
     "node": ">=12.0.0"
   },
@@ -13,10 +13,10 @@
     "test": "test"
   },
   "dependencies": {
-    "doormen": "^0.10.19",
+    "doormen": "^0.14.5",
     "freedesktop-notifications": "^1.4.0",
     "fs-kit": "^0.6.4",
-    "ini": "^1.3.5",
+    "ini": "^1.3.8",
     "semver": "^7.3.8",
     "seventh": "^0.8.1",
     "string-kit": "^0.17.7",
