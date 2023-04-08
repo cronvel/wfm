@@ -1,4 +1,5 @@
 {
 	"pub": "publish" ,
+	"prep": "prepare" ,
 	"env": "setup-environment"
 }
