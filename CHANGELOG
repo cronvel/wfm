@@ -1,4 +1,10 @@
 
+v0.9.0
+------
+
+BREAKING: new workflow using "wfm prepare ..." then "wfm publish ..."
+
+
 v0.8.2
 ------
 
