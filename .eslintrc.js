@@ -82,7 +82,7 @@ module.exports = {
 			'words': true ,
 			'nonwords': true ,
 			'overrides': {
-				'-': false ,
+				//'-': false ,
 			}
 		} ] ,
 		'space-in-parens': [ 'error' , 'always' , {
