@@ -2,11 +2,12 @@ module.exports = {
 	'root': true ,
 	'env': {
 		'browser': true ,
+		'node': true ,
 		'es6': true ,
-		'node': true
+		'es2022': true
 	} ,
 	'parserOptions': {
-		'ecmaVersion': 2020
+		'ecmaVersion': 2022
 	} ,
 	'extends': [ 'eslint:recommended' ] ,
 	'ignorePatterns': [ "*.min.js" ] ,
