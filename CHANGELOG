@@ -1,4 +1,11 @@
 
+v0.10.0
+-------
+
+BREAKING: Depencencies upgraded requiring Node >= 16.13
+PATCH: release
+
+
 v0.9.4
 ------
 

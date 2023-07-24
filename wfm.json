@@ -1,16 +1,3 @@
 {
-	"prepare": {
-		"prereleaseCount": 2,
-		"fromVersion": "0.9.8",
-		"forceVersionGte": "0.9.8",
-		"statusType": "alpha",
-		"releaseType": "breaking",
-		"nextVersion": "0.10.0-alpha.2",
-		"entries": [
-			{
-				"type": "breaking",
-				"message": "Depencencies upgraded requiring Node >= 16.13"
-			}
-		]
-	}
+	"prepare": {}
 }
