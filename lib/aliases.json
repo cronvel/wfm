@@ -1,5 +1,6 @@
 {
 	"pub": "publish" ,
 	"prep": "prepare" ,
+	"dep": "upgrade-dependencies" ,
 	"env": "setup-environment"
 }
