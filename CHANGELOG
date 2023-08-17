@@ -1,4 +1,10 @@
 
+v0.10.3
+-------
+
+Fix the missing CHANGELOG update when there is a wfm.json but no prepared version
+
+
 v0.10.0
 -------
 
