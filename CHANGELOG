@@ -1,4 +1,10 @@
 
+v0.10.4
+-------
+
+Add 'builder' directory to default .npmignore file
+
+
 v0.10.3
 -------
 
