@@ -1,4 +1,10 @@
 
+v0.10.5
+-------
+
+Add slashes to .npmignore path that are directories
+
+
 v0.10.4
 -------
 
