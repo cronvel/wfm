@@ -52,12 +52,9 @@ Thumbs.db
 
 
 # --- .gitignore
-test
-log
-sample
-wfm.json
-builder
 test/
 doc/
 sample/
 builder/
+log
+wfm.json
