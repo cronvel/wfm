@@ -58,3 +58,13 @@ sample/
 builder/
 log
 wfm.json
+bench/
+log/
+Makefile
+documentation.md
+bdd-spec.md
+SECURITY.md
+.eslintrc.js
+eslint.config.js
+esbuild.config.js
+.jshintrc
